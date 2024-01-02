@@ -1,3 +1,4 @@
+![logo](https://github.com/Mahi8118/Mahi8118/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mahesh Randive</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
